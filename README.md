@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React,AWS**
 
-- 💬 Ask me about **REACT, DOCKER**
+- 💬 Ask me about **MERN, DOCKER, AWS**
 
 - 📫 How to reach me **shivasharma23jan@gmail.com**
 
