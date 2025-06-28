@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivsh94" alt="shivsh94" /></a> </p>
 
-- 🌱 I’m currently learning **React,AWS**
+- 🌱 I’m currently learning **FastAPI**
 
 - 💬 Ask me about **MERN, DOCKER, AWS**
 
